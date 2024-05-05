@@ -1,2 +1,2 @@
 # Learning web dev
-* Aspiring entreprenure
+* now learning git
